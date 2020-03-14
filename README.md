@@ -1,9 +1,11 @@
 # Instalação do sistema
 
   ### Processo de instalação do sistema 
+  Processo de instalação:
+  **https://drive.google.com/file/d/0B9HQ_q3LvylPdGNtSXA2YXU2R0E/view**
 
   Link para instalar o sistema:
-  *http://www.escolarmanager.kinghost.net/release/EscolarManager.exe*
+  **http://www.escolarmanager.kinghost.net/release/EscolarManager.exe**
 
   ### Portas/Portal do Professor e Aluno  
 ####  Portas para liberação do Firewall externo
