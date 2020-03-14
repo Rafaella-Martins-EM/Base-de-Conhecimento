@@ -7,7 +7,7 @@
   Link para instalar o sistema:
   **http://www.escolarmanager.kinghost.net/release/EscolarManager.exe**
 
-  ### Portas/Portal do Professor e Aluno  
+### Portas/Portal do Professor e Aluno  
 ####  Portas para liberação do Firewall externo
 * Portal do professor: 80
 * Portal do aluno: 8085
