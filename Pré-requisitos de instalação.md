@@ -12,7 +12,7 @@
 * DotNet versão mínima 4.7.2
   https://support.microsoft.com/pt-br/help/4054530/microsoft-net-framework-4-7-2-offline-installer-for-windows
   
-  Obs.: Caso o Sistema operacional for Windows 10 e o sistema apresentar erro no DotNet, abra o link abaixo e atualize o Windows 10.
+ * Obs.: Caso o Sistema operacional for Windows 10 e o sistema apresentar erro no DotNet, abra o link abaixo e atualize o Windows 10.
   https://www.microsoft.com/pt-br/software-download/windows10
 
 ### Configurar Portas no Windows Defender Firewall 
